@@ -1,0 +1,25 @@
+# Logfile created on 2015-03-30 19:13:31 +0530 by logger.rb/44203
+I, [2015-03-30T19:13:31.621721 #49177]  INFO -- : 0:  addressable (2.3.8) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/addressable-2.3.8.gemspec
+I, [2015-03-30T19:13:50.016151 #49177]  INFO -- : 0:  bcrypt (3.1.10) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/bcrypt-3.1.10.gemspec
+I, [2015-03-30T19:13:54.881481 #49177]  INFO -- : 0:  bcrypt-ruby (3.1.5) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/bcrypt-ruby-3.1.5.gemspec
+I, [2015-03-30T19:14:05.316157 #49177]  INFO -- : 0:  dm-core (1.2.1) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/dm-core-1.2.1.gemspec
+I, [2015-03-30T19:14:09.604323 #49177]  INFO -- : 0:  dm-aggregates (1.2.0) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/dm-aggregates-1.2.0.gemspec
+I, [2015-03-30T19:14:14.265674 #49177]  INFO -- : 0:  dm-constraints (1.2.0) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/dm-constraints-1.2.0.gemspec
+I, [2015-03-30T19:14:19.123452 #49177]  INFO -- : 0:  dm-migrations (1.2.0) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/dm-migrations-1.2.0.gemspec
+I, [2015-03-30T19:14:24.970579 #49177]  INFO -- : 0:  fastercsv (1.5.5) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/fastercsv-1.5.5.gemspec
+I, [2015-03-30T19:14:40.575329 #49177]  INFO -- : 0:  json (1.8.2) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/json-1.8.2.gemspec
+I, [2015-03-30T19:14:48.353783 #49177]  INFO -- : 0:  json_pure (1.8.2) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/json_pure-1.8.2.gemspec
+I, [2015-03-30T19:14:52.358352 #49177]  INFO -- : 0:  multi_json (1.11.0) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.11.0.gemspec
+I, [2015-03-30T19:14:56.174870 #49177]  INFO -- : 0:  dm-serializer (1.2.2) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/dm-serializer-1.2.2.gemspec
+I, [2015-03-30T19:14:59.588402 #49177]  INFO -- : 0:  dm-timestamps (1.2.0) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/dm-timestamps-1.2.0.gemspec
+I, [2015-03-30T19:15:03.541188 #49177]  INFO -- : 0:  dm-transactions (1.2.0) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/dm-transactions-1.2.0.gemspec
+I, [2015-03-30T19:15:11.866359 #49177]  INFO -- : 0:  stringex (1.5.1) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/stringex-1.5.1.gemspec
+I, [2015-03-30T19:15:15.931009 #49177]  INFO -- : 0:  uuidtools (2.1.5) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/uuidtools-2.1.5.gemspec
+I, [2015-03-30T19:15:20.606228 #49177]  INFO -- : 0:  dm-types (1.2.2) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/dm-types-1.2.2.gemspec
+I, [2015-03-30T19:15:25.923579 #49177]  INFO -- : 0:  dm-validations (1.2.0) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/dm-validations-1.2.0.gemspec
+I, [2015-03-30T19:15:30.705992 #49177]  INFO -- : 0:  data_mapper (1.2.0) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/data_mapper-1.2.0.gemspec
+I, [2015-03-30T19:15:37.725327 #49177]  INFO -- : 0:  rack (1.6.0) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/rack-1.6.0.gemspec
+I, [2015-03-30T19:15:37.725923 #49177]  INFO -- : 0:  rack-protection (1.5.3) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.3.gemspec
+I, [2015-03-30T19:15:41.806413 #49177]  INFO -- : 0:  tilt (2.0.1) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/tilt-2.0.1.gemspec
+I, [2015-03-30T19:15:41.806882 #49177]  INFO -- : 0:  sinatra (1.4.6) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.6.gemspec
+I, [2015-03-30T19:15:41.807362 #49177]  INFO -- : 0:  bundler (1.5.1) from /Users/psethi/.rvm/gems/ruby-2.1.0/specifications/bundler-1.5.1.gemspec
